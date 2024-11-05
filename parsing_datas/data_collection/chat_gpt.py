@@ -1,35 +1,7 @@
-# import openai
-# import json
-#
-# # Set your API key here
-# openai.api_key = 'sk-None-biyzAFdK3naS9mnvlPAmT3BlbkFJKkdrNsx6BrlkWBXSc9tl'
-#
-# def extract_data(message):
-#     try:
-#         response = openai.ChatCompletion.create(
-#             model="gpt-4",
-#             messages=[
-#                 {"role": "system", "content": "You are a data extraction bot."},
-#                 {"role": "user", "content": message}
-#             ]
-#         )
-#         # Assuming the response you want is in the 'choices' part of the response
-#         data = response['choices'][0]['message']['content']
-#         return json.dumps({"extracted_data": data})
-#     except Exception as e:
-#         return json.dumps({"error": str(e)})
-#
-# # Example usage
-# message = "Hello, I need to extract dates and prices from this text."
-# print(extract_data(message))
-
-
 import openai
+# Set the API key from the environment variable
+openai.api_key = "sk-None-biyzAFdK3naS9mnvlPAmT3BlbkFJKkdrNsx6BrlkWBXSc9tl"
 
-# Set your API key here
-openai.api_key = 'sk-None-biyzAFdK3naS9mnvlPAmT3BlbkFJKkdrNsx6BrlkWBXSc9tl'
-
-# Your message and prompt as you described
 message = """
 Доброго дня 🪐 В двухкомнатной квартире сдается одна комната. Только для девушки или девушек. Можете жить с подругой или одна.
 ✅ Количество комнат в квартире: 2
