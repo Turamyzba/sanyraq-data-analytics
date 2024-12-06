@@ -1,0 +1,9 @@
+BEGIN:VCARD 
+VERSION:3.0 
+PRODID:-//Apple Inc.//iPhone OS 16.0//EN 
+N:;Ермек Көке;;; 
+FN:Ермек Көке 
+item1.TEL;type=pref:+77026724478 
+item1.X-ABLabel:‎старый номер 
+TEL;type=CELL;type=VOICE:+77476593492 
+END:VCARD 
