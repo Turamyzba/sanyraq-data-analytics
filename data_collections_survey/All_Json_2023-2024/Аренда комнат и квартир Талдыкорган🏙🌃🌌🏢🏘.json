@@ -1,0 +1,1861 @@
+{
+ "name": "Аренда комнат и квартир Талдыкорган🏙🌃🌌🏢🏘",
+ "type": "public_supergroup",
+ "id": 2466314497,
+ "messages": [
+  {
+   "id": 1,
+   "type": "service",
+   "date": "2024-09-09T20:41:50",
+   "date_unixtime": "1725896510",
+   "actor": "Аренда комнат и квартир Талдыкорган🏙🌃🌌🏢🏘",
+   "actor_id": "channel2466314497",
+   "action": "migrate_from_group",
+   "title": "Аренда комнат и квартир Талдыкорган🏙🌃🌌🏢🏘",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 2,
+   "type": "service",
+   "date": "2024-09-09T20:43:35",
+   "date_unixtime": "1725896615",
+   "actor": "Soter T",
+   "actor_id": "user7341063856",
+   "action": "topic_created",
+   "title": "Группа создана для подачи объявлений",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 3,
+   "type": "service",
+   "date": "2024-09-13T21:53:23",
+   "date_unixtime": "1726246403",
+   "actor": "Seidahmet Asylan",
+   "actor_id": "user6654093478",
+   "action": "invite_members",
+   "members": [
+    "Seidahmet Asylan"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 4,
+   "type": "service",
+   "date": "2024-09-19T11:33:14",
+   "date_unixtime": "1726727594",
+   "actor": "Erla",
+   "actor_id": "user5823047924",
+   "action": "invite_members",
+   "members": [
+    "Erla"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 5,
+   "type": "service",
+   "date": "2024-09-24T15:09:45",
+   "date_unixtime": "1727172585",
+   "actor": "Камшат Копчикбаева",
+   "actor_id": "user1677157899",
+   "action": "invite_members",
+   "members": [
+    "Камшат Копчикбаева"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 6,
+   "type": "service",
+   "date": "2024-09-25T10:41:17",
+   "date_unixtime": "1727242877",
+   "actor": "Сержан",
+   "actor_id": "user872432181",
+   "action": "invite_members",
+   "members": [
+    "Сержан"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 7,
+   "type": "service",
+   "date": "2024-09-25T10:41:33",
+   "date_unixtime": "1727242893",
+   "actor": "Сержан",
+   "actor_id": "user872432181",
+   "action": "remove_members",
+   "members": [
+    "Сержан"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 8,
+   "type": "service",
+   "date": "2024-09-25T21:08:07",
+   "date_unixtime": "1727280487",
+   "actor": "а",
+   "actor_id": "user925511180",
+   "action": "invite_members",
+   "members": [
+    "а"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 9,
+   "type": "service",
+   "date": "2024-09-25T21:08:17",
+   "date_unixtime": "1727280497",
+   "actor": "а",
+   "actor_id": "user925511180",
+   "action": "remove_members",
+   "members": [
+    "а"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 10,
+   "type": "service",
+   "date": "2024-09-26T17:44:44",
+   "date_unixtime": "1727354684",
+   "actor": "@I_VSEIIENNAIA @douay",
+   "actor_id": "user6345830205",
+   "action": "invite_members",
+   "members": [
+    "@I_VSEIIENNAIA @douay"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 11,
+   "type": "message",
+   "date": "2024-09-26T17:45:39",
+   "date_unixtime": "1727354739",
+   "from": "@I_VSEIIENNAIA @douay",
+   "from_id": "user6345830205",
+   "text": "Здравствуйте хочу снять квартиру однакомнатную Талдыкорган",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Здравствуйте хочу снять квартиру однакомнатную Талдыкорган"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "type": "service",
+   "date": "2024-09-26T19:30:18",
+   "date_unixtime": "1727361018",
+   "actor": "Гульнура Карсакова",
+   "actor_id": "user5547273338",
+   "action": "invite_members",
+   "members": [
+    "Гульнура Карсакова"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 13,
+   "type": "service",
+   "date": "2024-09-26T21:26:36",
+   "date_unixtime": "1727367996",
+   "actor": "Гульнура Карсакова",
+   "actor_id": "user5547273338",
+   "action": "remove_members",
+   "members": [
+    "Гульнура Карсакова"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 14,
+   "type": "service",
+   "date": "2024-09-27T12:56:14",
+   "date_unixtime": "1727423774",
+   "actor": "Сауле Шатанова",
+   "actor_id": "user6632574777",
+   "action": "invite_members",
+   "members": [
+    "Сауле Шатанова"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 15,
+   "type": "message",
+   "date": "2024-09-27T12:57:01",
+   "date_unixtime": "1727423821",
+   "from": "Сауле Шатанова",
+   "from_id": "user6632574777",
+   "text": "Здравствуйте \nСниму на долгий срок 1комнатную\nШевченко или 2 мкрн\n2, 3 этаж",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Здравствуйте \nСниму на долгий срок 1комнатную\nШевченко или 2 мкрн\n2, 3 этаж"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "type": "message",
+   "date": "2024-09-27T13:16:08",
+   "date_unixtime": "1727424968",
+   "from": "Сауле Шатанова",
+   "from_id": "user6632574777",
+   "text": "И за это я заплатила 6000?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "И за это я заплатила 6000?"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "type": "message",
+   "date": "2024-09-27T13:16:11",
+   "date_unixtime": "1727424971",
+   "from": "Сауле Шатанова",
+   "from_id": "user6632574777",
+   "text": "А где те, кто сдает квартиры?!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "А где те, кто сдает квартиры?!"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "type": "message",
+   "date": "2024-09-27T13:27:36",
+   "date_unixtime": "1727425656",
+   "from": "Сауле Шатанова",
+   "from_id": "user6632574777",
+   "text": "Как снять квартиру?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Как снять квартиру?"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "type": "service",
+   "date": "2024-09-27T20:57:15",
+   "date_unixtime": "1727452635",
+   "actor": "Сауле Шатанова",
+   "actor_id": "user6632574777",
+   "action": "remove_members",
+   "members": [
+    "Сауле Шатанова"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 20,
+   "type": "service",
+   "date": "2024-10-03T17:59:13",
+   "date_unixtime": "1727960353",
+   "actor": "Айгуль",
+   "actor_id": "user676818580",
+   "action": "invite_members",
+   "members": [
+    "Айгуль"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 21,
+   "type": "service",
+   "date": "2024-10-06T17:21:24",
+   "date_unixtime": "1728217284",
+   "actor": "никто…",
+   "actor_id": "user6075810914",
+   "action": "invite_members",
+   "members": [
+    "никто…"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 22,
+   "type": "message",
+   "date": "2024-10-06T17:22:07",
+   "date_unixtime": "1728217327",
+   "from": "никто…",
+   "from_id": "user6075810914",
+   "text": "Здравствуйте,есть квартира ?Центр",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Здравствуйте,есть квартира ?Центр"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "type": "service",
+   "date": "2024-10-06T18:39:31",
+   "date_unixtime": "1728221971",
+   "actor": "Aiko_posh",
+   "actor_id": "user1351055488",
+   "action": "invite_members",
+   "members": [
+    "Aiko_posh"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 24,
+   "type": "service",
+   "date": "2024-10-07T17:27:25",
+   "date_unixtime": "1728304045",
+   "actor": "Алия Даниярова",
+   "actor_id": "user5811477834",
+   "action": "invite_members",
+   "members": [
+    "Алия Даниярова"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 25,
+   "type": "message",
+   "date": "2024-10-07T17:27:55",
+   "date_unixtime": "1728304075",
+   "from": "Алия Даниярова",
+   "from_id": "user5811477834",
+   "text": "Здравствуйте",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Здравствуйте"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "type": "message",
+   "date": "2024-10-07T17:28:43",
+   "date_unixtime": "1728304123",
+   "from": "Алия Даниярова",
+   "from_id": "user5811477834",
+   "text": "Есть 1ком квартира?\nВ районе Алым кафе",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Есть 1ком квартира?\nВ районе Алым кафе"
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "type": "message",
+   "date": "2024-10-07T18:37:15",
+   "date_unixtime": "1728308235",
+   "from": "никто…",
+   "from_id": "user6075810914",
+   "reply_to_message_id": 22,
+   "text": "?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "?"
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "type": "message",
+   "date": "2024-10-07T19:18:53",
+   "date_unixtime": "1728310733",
+   "from": "Алия Даниярова",
+   "from_id": "user5811477834",
+   "reply_to_message_id": 34,
+   "text": "Где это?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Где это?"
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "type": "message",
+   "date": "2024-10-07T19:19:03",
+   "date_unixtime": "1728310743",
+   "from": "Алия Даниярова",
+   "from_id": "user5811477834",
+   "text": "Сколько просите?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Сколько просите?"
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "type": "message",
+   "date": "2024-10-08T15:17:53",
+   "date_unixtime": "1728382673",
+   "from": "никто…",
+   "from_id": "user6075810914",
+   "text": "Здравствуйте",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Здравствуйте"
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "type": "message",
+   "date": "2024-10-08T15:17:57",
+   "date_unixtime": "1728382677",
+   "from": "никто…",
+   "from_id": "user6075810914",
+   "text": "Можно фото",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Можно фото"
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "type": "service",
+   "date": "2024-10-12T08:22:29",
+   "date_unixtime": "1728703349",
+   "actor": "Erkebulan",
+   "actor_id": "user1174147191",
+   "action": "invite_members",
+   "members": [
+    "Erkebulan"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 48,
+   "type": "service",
+   "date": "2024-10-12T16:18:25",
+   "date_unixtime": "1728731905",
+   "actor": "Айгуль",
+   "actor_id": "user676818580",
+   "action": "invite_members",
+   "members": [
+    "Айгуль"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 54,
+   "type": "service",
+   "date": "2024-10-14T18:18:25",
+   "date_unixtime": "1728911905",
+   "actor": "Bakos Bakos",
+   "actor_id": "user6348698044",
+   "action": "invite_members",
+   "members": [
+    "Bakos Bakos"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 55,
+   "type": "service",
+   "date": "2024-10-14T19:09:49",
+   "date_unixtime": "1728914989",
+   "actor": "Багдат Бексултанов",
+   "actor_id": "user7886106226",
+   "action": "invite_members",
+   "members": [
+    "Багдат Бексултанов"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 56,
+   "type": "message",
+   "date": "2024-10-14T19:23:15",
+   "date_unixtime": "1728915795",
+   "from": "Багдат Бексултанов",
+   "from_id": "user7886106226",
+   "text": "Добрый вечер квартира нада районе восток, Каратал,9 плошад,1,2 комнатный",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Добрый вечер квартира нада районе восток, Каратал,9 плошад,1,2 комнатный"
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "type": "message",
+   "date": "2024-10-16T13:27:08",
+   "date_unixtime": "1729067228",
+   "from": "никто…",
+   "from_id": "user6075810914",
+   "text": "Здравствуйте",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Здравствуйте"
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "type": "message",
+   "date": "2024-10-16T13:27:21",
+   "date_unixtime": "1729067241",
+   "from": "никто…",
+   "from_id": "user6075810914",
+   "text": "Квартиры есть в центр ?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Квартиры есть в центр ?"
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "type": "message",
+   "date": "2024-10-17T22:09:21",
+   "date_unixtime": "1729184961",
+   "from": "Bakos Bakos",
+   "from_id": "user6348698044",
+   "text": "Салеметсыздер ма узак уакытка квартира ыздимын военный гарадок или отенай барма",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Салеметсыздер ма узак уакытка квартира ыздимын военный гарадок или отенай барма"
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "type": "service",
+   "date": "2024-10-20T14:46:35",
+   "date_unixtime": "1729417595",
+   "actor": "~дилёка~",
+   "actor_id": "user5561379265",
+   "action": "invite_members",
+   "members": [
+    "~дилёка~"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 61,
+   "type": "service",
+   "date": "2024-10-22T08:54:56",
+   "date_unixtime": "1729569296",
+   "actor": "...",
+   "actor_id": "user6613955610",
+   "action": "invite_members",
+   "members": [
+    "..."
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 62,
+   "type": "message",
+   "date": "2024-10-22T08:56:08",
+   "date_unixtime": "1729569368",
+   "from": "...",
+   "from_id": "user6613955610",
+   "text": "Срочно нужна квартира",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Срочно нужна квартира"
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "type": "service",
+   "date": "2024-10-22T18:47:50",
+   "date_unixtime": "1729604870",
+   "actor": "Айгуль",
+   "actor_id": "user676818580",
+   "action": "remove_members",
+   "members": [
+    "Айгуль"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 64,
+   "type": "service",
+   "date": "2024-10-23T12:33:57",
+   "date_unixtime": "1729668837",
+   "actor": "Bekagosh",
+   "actor_id": "user7048175008",
+   "action": "invite_members",
+   "members": [
+    "Bekagosh"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 65,
+   "type": "service",
+   "date": "2024-10-23T21:11:23",
+   "date_unixtime": "1729699883",
+   "actor": "Багдат Бексултанов",
+   "actor_id": "user7886106226",
+   "action": "remove_members",
+   "members": [
+    "Багдат Бексултанов"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 66,
+   "type": "service",
+   "date": "2024-10-24T19:32:38",
+   "date_unixtime": "1729780358",
+   "actor": "your_paradise",
+   "actor_id": "user530714706",
+   "action": "invite_members",
+   "members": [
+    "your_paradise"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 67,
+   "type": "service",
+   "date": "2024-10-29T12:42:25",
+   "date_unixtime": "1730187745",
+   "actor": "𝑍ℎ𝑎𝑛𝑛𝑎🤍",
+   "actor_id": "user5680038326",
+   "action": "invite_members",
+   "members": [
+    "𝑍ℎ𝑎𝑛𝑛𝑎🤍"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 68,
+   "type": "service",
+   "date": "2024-10-29T13:23:04",
+   "date_unixtime": "1730190184",
+   "actor": "MIRass",
+   "actor_id": "user1018305849",
+   "action": "invite_members",
+   "members": [
+    "MIRass"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 69,
+   "type": "message",
+   "date": "2024-10-29T13:24:05",
+   "date_unixtime": "1730190245",
+   "from": "MIRass",
+   "from_id": "user1018305849",
+   "text": "Здравствуйте хочу снять квартиру однакомнатную Талдыкорган",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Здравствуйте хочу снять квартиру однакомнатную Талдыкорган"
+    }
+   ]
+  },
+  {
+   "id": 70,
+   "type": "service",
+   "date": "2024-10-30T10:29:35",
+   "date_unixtime": "1730266175",
+   "actor": "Айгуль",
+   "actor_id": "user676818580",
+   "action": "invite_members",
+   "members": [
+    "Айгуль"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 71,
+   "type": "message",
+   "date": "2024-10-30T10:30:18",
+   "date_unixtime": "1730266218",
+   "from": "Айгуль",
+   "from_id": "user676818580",
+   "text": "Есть 1 комнатная в центре пишите в личку. 70 тысяч аренда",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Есть 1 комнатная в центре пишите в личку. 70 тысяч аренда"
+    }
+   ]
+  },
+  {
+   "id": 72,
+   "type": "message",
+   "date": "2024-10-30T10:30:55",
+   "date_unixtime": "1730266255",
+   "from": "Айгуль",
+   "from_id": "user676818580",
+   "text": "Благоустроенная времянка в частном секторе. Есть душ туалет стиралка.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Благоустроенная времянка в частном секторе. Есть душ туалет стиралка."
+    }
+   ]
+  },
+  {
+   "id": 73,
+   "type": "service",
+   "date": "2024-10-30T22:09:47",
+   "date_unixtime": "1730308187",
+   "actor": "Akosya",
+   "actor_id": "user841269782",
+   "action": "invite_members",
+   "members": [
+    "Akosya"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 74,
+   "type": "message",
+   "date": "2024-10-30T22:10:09",
+   "date_unixtime": "1730308209",
+   "from": "Akosya",
+   "from_id": "user841269782",
+   "text": "Кв керек 50-60",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Кв керек 50-60"
+    }
+   ]
+  },
+  {
+   "id": 75,
+   "type": "message",
+   "date": "2024-10-30T22:10:16",
+   "date_unixtime": "1730308216",
+   "from": "Akosya",
+   "from_id": "user841269782",
+   "text": "Блогостройка болса",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Блогостройка болса"
+    }
+   ]
+  },
+  {
+   "id": 76,
+   "type": "message",
+   "date": "2024-10-30T22:10:32",
+   "date_unixtime": "1730308232",
+   "from": "Bakos Bakos",
+   "from_id": "user6348698044",
+   "text": "Сол маганда керек еды  тоже сол багага",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Сол маганда керек еды  тоже сол багага"
+    }
+   ]
+  },
+  {
+   "id": 77,
+   "type": "service",
+   "date": "2024-10-30T22:32:46",
+   "date_unixtime": "1730309566",
+   "actor": "Bakos Bakos",
+   "actor_id": "user6348698044",
+   "action": "remove_members",
+   "members": [
+    "Bakos Bakos"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 81,
+   "type": "service",
+   "date": "2024-10-30T22:34:55",
+   "date_unixtime": "1730309695",
+   "actor": "Seidahmet Asylan",
+   "actor_id": "user6654093478",
+   "action": "remove_members",
+   "members": [
+    "Seidahmet Asylan"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 82,
+   "type": "service",
+   "date": "2024-10-31T18:19:05",
+   "date_unixtime": "1730380745",
+   "actor": "~",
+   "actor_id": "user6172176743",
+   "action": "invite_members",
+   "members": [
+    "~"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 83,
+   "type": "message",
+   "date": "2024-10-31T20:13:07",
+   "date_unixtime": "1730387587",
+   "from": "Айгуль",
+   "from_id": "user676818580",
+   "text": "60 мыңга бар. Жекеме ватсапка жазыңдар ертең босайды",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "60 мыңга бар. Жекеме ватсапка жазыңдар ертең босайды"
+    }
+   ]
+  },
+  {
+   "id": 84,
+   "type": "service",
+   "date": "2024-11-01T19:44:01",
+   "date_unixtime": "1730472241",
+   "actor": "D K",
+   "actor_id": "user7178522880",
+   "action": "invite_members",
+   "members": [
+    "D K"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 85,
+   "type": "message",
+   "date": "2024-11-01T19:44:31",
+   "date_unixtime": "1730472271",
+   "edited": "2024-11-01T19:50:07",
+   "edited_unixtime": "1730472607",
+   "from": "D K",
+   "from_id": "user7178522880",
+   "text": "Ищу квартиру за 60-70-80к",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ищу квартиру за 60-70-80к"
+    }
+   ]
+  },
+  {
+   "id": 86,
+   "type": "service",
+   "date": "2024-11-02T23:16:03",
+   "date_unixtime": "1730571363",
+   "actor": "Жансая Рашитовна",
+   "actor_id": "user1314547026",
+   "action": "invite_members",
+   "members": [
+    "Жансая Рашитовна"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 87,
+   "type": "service",
+   "date": "2024-11-03T22:18:22",
+   "date_unixtime": "1730654302",
+   "actor": "Kenzhe Muratuly",
+   "actor_id": "user973925595",
+   "action": "invite_members",
+   "members": [
+    "Kenzhe Muratuly"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 88,
+   "type": "message",
+   "date": "2024-11-03T22:20:48",
+   "date_unixtime": "1730654448",
+   "from": "Kenzhe Muratuly",
+   "from_id": "user973925595",
+   "text": "ищу времянку за 45-50к",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ищу времянку за 45-50к"
+    }
+   ]
+  },
+  {
+   "id": 89,
+   "type": "message",
+   "date": "2024-11-03T22:20:54",
+   "date_unixtime": "1730654454",
+   "from": "Kenzhe Muratuly",
+   "from_id": "user973925595",
+   "text": "срочно",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "срочно"
+    }
+   ]
+  },
+  {
+   "id": 90,
+   "type": "service",
+   "date": "2024-11-04T03:50:22",
+   "date_unixtime": "1730674222",
+   "actor": "Bekagosh",
+   "actor_id": "user7048175008",
+   "action": "remove_members",
+   "members": [
+    "Bekagosh"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 91,
+   "type": "service",
+   "date": "2024-11-04T08:22:27",
+   "date_unixtime": "1730690547",
+   "actor": "D K",
+   "actor_id": "user7178522880",
+   "action": "remove_members",
+   "members": [
+    "D K"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 92,
+   "type": "message",
+   "date": "2024-11-04T11:57:21",
+   "date_unixtime": "1730703441",
+   "from": "~",
+   "from_id": "user6172176743",
+   "text": [
+    "Здравствуйте! У меня есть небольшая Google форма для вас. Это займет совсем немного времени, максимум 2 минуты. Заранее благодарю за заполнение! 🙏\n\nСсылка: ",
+    {
+     "type": "link",
+     "text": "https://docs.google.com/forms/d/e/1FAIpQLSf1lxjEB1mEy9eL9FOXmi4ye9z2W42azIgMvFtIw3JC1YUmGA/viewform?usp=sf_link"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Здравствуйте! У меня есть небольшая Google форма для вас. Это займет совсем немного времени, максимум 2 минуты. Заранее благодарю за заполнение! 🙏\n\nСсылка: "
+    },
+    {
+     "type": "link",
+     "text": "https://docs.google.com/forms/d/e/1FAIpQLSf1lxjEB1mEy9eL9FOXmi4ye9z2W42azIgMvFtIw3JC1YUmGA/viewform?usp=sf_link"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 93,
+   "type": "service",
+   "date": "2024-11-04T14:55:38",
+   "date_unixtime": "1730714138",
+   "actor": "Айгуль",
+   "actor_id": "user676818580",
+   "action": "remove_members",
+   "members": [
+    "Айгуль"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 94,
+   "type": "service",
+   "date": "2024-11-04T15:38:44",
+   "date_unixtime": "1730716724",
+   "actor": "𝑍ℎ𝑎𝑛𝑛𝑎🤍",
+   "actor_id": "user5680038326",
+   "action": "remove_members",
+   "members": [
+    "𝑍ℎ𝑎𝑛𝑛𝑎🤍"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 95,
+   "type": "service",
+   "date": "2024-11-05T09:59:23",
+   "date_unixtime": "1730782763",
+   "actor": "Т Т",
+   "actor_id": "user5406928142",
+   "action": "invite_members",
+   "members": [
+    "Т Т"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 96,
+   "type": "message",
+   "date": "2024-11-05T10:00:13",
+   "date_unixtime": "1730782813",
+   "from": "Т Т",
+   "from_id": "user5406928142",
+   "text": "Салеметсіздерма",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Салеметсіздерма"
+    }
+   ]
+  },
+  {
+   "id": 97,
+   "type": "message",
+   "date": "2024-11-05T10:01:00",
+   "date_unixtime": "1730782860",
+   "from": "Т Т",
+   "from_id": "user5406928142",
+   "text": "Долгосрошно квартира керек еді 70 80 арасында примерна",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Долгосрошно квартира керек еді 70 80 арасында примерна"
+    }
+   ]
+  },
+  {
+   "id": 98,
+   "type": "message",
+   "date": "2024-11-05T10:02:17",
+   "date_unixtime": "1730782937",
+   "from": "Т Т",
+   "from_id": "user5406928142",
+   "text": "Блогостройка болса жаксы болар еді",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Блогостройка болса жаксы болар еді"
+    }
+   ]
+  },
+  {
+   "id": 99,
+   "type": "service",
+   "date": "2024-11-05T16:25:26",
+   "date_unixtime": "1730805926",
+   "actor": "Леонид Ким",
+   "actor_id": "user6631419464",
+   "action": "invite_members",
+   "members": [
+    "Леонид Ким"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 100,
+   "type": "message",
+   "date": "2024-11-05T16:25:31",
+   "date_unixtime": "1730805931",
+   "from": "Леонид Ким",
+   "from_id": "user6631419464",
+   "text": "Здравствуйте",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Здравствуйте"
+    }
+   ]
+  },
+  {
+   "id": 101,
+   "type": "message",
+   "date": "2024-11-05T16:25:50",
+   "date_unixtime": "1730805950",
+   "from": "Леонид Ким",
+   "from_id": "user6631419464",
+   "text": "Есть квартиры на долги срочно",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Есть квартиры на долги срочно"
+    }
+   ]
+  },
+  {
+   "id": 102,
+   "type": "message",
+   "date": "2024-11-05T16:26:43",
+   "date_unixtime": "1730806003",
+   "from": "Леонид Ким",
+   "from_id": "user6631419464",
+   "text": "50 60",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "50 60"
+    }
+   ]
+  },
+  {
+   "id": 103,
+   "type": "service",
+   "date": "2024-11-06T12:32:26",
+   "date_unixtime": "1730878346",
+   "actor": "((",
+   "actor_id": "user929903383",
+   "action": "invite_members",
+   "members": [
+    "(("
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 104,
+   "type": "service",
+   "date": "2024-11-06T13:35:01",
+   "date_unixtime": "1730882101",
+   "actor": "Kenzhe Muratuly",
+   "actor_id": "user973925595",
+   "action": "remove_members",
+   "members": [
+    "Kenzhe Muratuly"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 105,
+   "type": "service",
+   "date": "2024-11-06T14:26:53",
+   "date_unixtime": "1730885213",
+   "actor": "Римма",
+   "actor_id": "user7499814820",
+   "action": "invite_members",
+   "members": [
+    "Римма"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 106,
+   "type": "message",
+   "date": "2024-11-06T14:27:16",
+   "date_unixtime": "1730885236",
+   "from": "Римма",
+   "from_id": "user7499814820",
+   "text": "Здравствуйте.\nНужна благоустроенная времянка.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Здравствуйте.\nНужна благоустроенная времянка."
+    }
+   ]
+  },
+  {
+   "id": 107,
+   "type": "service",
+   "date": "2024-11-07T14:57:40",
+   "date_unixtime": "1730973460",
+   "actor": "А",
+   "actor_id": "user7841093732",
+   "action": "invite_members",
+   "members": [
+    "А"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 108,
+   "type": "service",
+   "date": "2024-11-07T20:31:06",
+   "date_unixtime": "1730993466",
+   "actor": "diii",
+   "actor_id": "user5349415471",
+   "action": "invite_members",
+   "members": [
+    "diii"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 109,
+   "type": "message",
+   "date": "2024-11-07T20:31:48",
+   "date_unixtime": "1730993508",
+   "edited": "2024-11-07T21:29:32",
+   "edited_unixtime": "1730996972",
+   "from": "diii",
+   "from_id": "user5349415471",
+   "text": "Здравствуйте нужна квартира на долгий срок 60-70.желательно на 2мкр",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Здравствуйте нужна квартира на долгий срок 60-70.желательно на 2мкр"
+    }
+   ]
+  },
+  {
+   "id": 110,
+   "type": "service",
+   "date": "2024-11-07T21:27:29",
+   "date_unixtime": "1730996849",
+   "actor": "🥺",
+   "actor_id": "user6760619903",
+   "action": "invite_members",
+   "members": [
+    "🥺"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 111,
+   "type": "message",
+   "date": "2024-11-07T21:31:42",
+   "date_unixtime": "1730997102",
+   "edited": "2024-11-08T01:37:44",
+   "edited_unixtime": "1731011864",
+   "from": "🥺",
+   "from_id": "user6760619903",
+   "text": "Здравствуйте нужна квартира на долгий срок 60-70.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Здравствуйте нужна квартира на долгий срок 60-70."
+    }
+   ]
+  },
+  {
+   "id": 112,
+   "type": "service",
+   "date": "2024-11-07T21:47:00",
+   "date_unixtime": "1730998020",
+   "actor": "А",
+   "actor_id": "user7841093732",
+   "action": "remove_members",
+   "members": [
+    "А"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 113,
+   "type": "service",
+   "date": "2024-11-09T17:40:31",
+   "date_unixtime": "1731156031",
+   "actor": "S Azamatovna",
+   "actor_id": "user1110322888",
+   "action": "invite_members",
+   "members": [
+    "S Azamatovna"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 114,
+   "type": "message",
+   "date": "2024-11-09T17:41:08",
+   "date_unixtime": "1731156068",
+   "from": "S Azamatovna",
+   "from_id": "user1110322888",
+   "text": "Здравствуйте нужна квартира за 55-60к,на долгий срок,семейным",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Здравствуйте нужна квартира за 55-60к,на долгий срок,семейным"
+    }
+   ]
+  },
+  {
+   "id": 115,
+   "type": "service",
+   "date": "2024-11-10T13:36:36",
+   "date_unixtime": "1731227796",
+   "actor": "Саят Баймухан",
+   "actor_id": "user8018098178",
+   "action": "invite_members",
+   "members": [
+    "Саят Баймухан"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 116,
+   "type": "message",
+   "date": "2024-11-10T13:37:40",
+   "date_unixtime": "1731227860",
+   "from": "Саят Баймухан",
+   "from_id": "user8018098178",
+   "text": "Здравствуйте нужна квартира однокомнатная за 40-50,на долгий срок",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Здравствуйте нужна квартира однокомнатная за 40-50,на долгий срок"
+    }
+   ]
+  },
+  {
+   "id": 117,
+   "type": "message",
+   "date": "2024-11-10T13:38:05",
+   "date_unixtime": "1731227885",
+   "from": "Саят Баймухан",
+   "from_id": "user8018098178",
+   "text": "В каратале желательно",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "В каратале желательно"
+    }
+   ]
+  },
+  {
+   "id": 118,
+   "type": "message",
+   "date": "2024-11-10T14:04:54",
+   "date_unixtime": "1731229494",
+   "from": "Erla",
+   "from_id": "user5823047924",
+   "text": "Здравствуйте квартира нужна 2 мкри 3 микр 4 мкр 70.80К",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Здравствуйте квартира нужна 2 мкри 3 микр 4 мкр 70.80К"
+    }
+   ]
+  },
+  {
+   "id": 119,
+   "type": "service",
+   "date": "2024-11-10T17:48:29",
+   "date_unixtime": "1731242909",
+   "actor": "🌙",
+   "actor_id": "user875818435",
+   "action": "invite_members",
+   "members": [
+    "🌙"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 120,
+   "type": "service",
+   "date": "2024-11-10T23:27:24",
+   "date_unixtime": "1731263244",
+   "actor": "~дилёка~",
+   "actor_id": "user5561379265",
+   "action": "remove_members",
+   "members": [
+    "~дилёка~"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 121,
+   "type": "service",
+   "date": "2024-11-10T23:30:35",
+   "date_unixtime": "1731263435",
+   "actor": "🌙",
+   "actor_id": "user875818435",
+   "action": "remove_members",
+   "members": [
+    "🌙"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 122,
+   "type": "message",
+   "date": "2024-11-11T00:31:44",
+   "date_unixtime": "1731267104",
+   "from": "Саят Баймухан",
+   "from_id": "user8018098178",
+   "text": "Чё  за группа тормознутая не квартиры ни ответа😂😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Чё  за группа тормознутая не квартиры ни ответа😂😂"
+    }
+   ]
+  },
+  {
+   "id": 123,
+   "type": "service",
+   "date": "2024-11-11T08:51:01",
+   "date_unixtime": "1731297061",
+   "actor": "🥺",
+   "actor_id": "user6760619903",
+   "action": "remove_members",
+   "members": [
+    "🥺"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 124,
+   "type": "message",
+   "date": "2024-11-11T17:56:05",
+   "date_unixtime": "1731329765",
+   "from": "Саят Баймухан",
+   "from_id": "user8018098178",
+   "text": "Да что-то не понятно,что за группа😔",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Да что-то не понятно,что за группа😔"
+    }
+   ]
+  },
+  {
+   "id": 125,
+   "type": "service",
+   "date": "2024-11-12T13:21:40",
+   "date_unixtime": "1731399700",
+   "actor": "Guli Boribaeva",
+   "actor_id": "user5565520256",
+   "action": "invite_members",
+   "members": [
+    "Guli Boribaeva"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 126,
+   "type": "message",
+   "date": "2024-11-12T13:22:02",
+   "date_unixtime": "1731399722",
+   "from": "Guli Boribaeva",
+   "from_id": "user5565520256",
+   "text": "Квартира керек",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Квартира керек"
+    }
+   ]
+  },
+  {
+   "id": 127,
+   "type": "message",
+   "date": "2024-11-12T13:22:13",
+   "date_unixtime": "1731399733",
+   "from": "Guli Boribaeva",
+   "from_id": "user5565520256",
+   "text": "40,50 ге",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "40,50 ге"
+    }
+   ]
+  },
+  {
+   "id": 128,
+   "type": "service",
+   "date": "2024-11-13T06:02:33",
+   "date_unixtime": "1731459753",
+   "actor": "Akosya",
+   "actor_id": "user841269782",
+   "action": "remove_members",
+   "members": [
+    "Akosya"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 129,
+   "type": "service",
+   "date": "2024-11-14T18:23:51",
+   "date_unixtime": "1731590631",
+   "actor": "D H",
+   "actor_id": "user6605938895",
+   "action": "invite_members",
+   "members": [
+    "D H"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 130,
+   "type": "service",
+   "date": "2024-11-14T19:20:54",
+   "date_unixtime": "1731594054",
+   "actor": "🤍",
+   "actor_id": "user7055990451",
+   "action": "invite_members",
+   "members": [
+    "🤍"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 131,
+   "type": "service",
+   "date": "2024-11-14T22:45:53",
+   "date_unixtime": "1731606353",
+   "actor": "🤍",
+   "actor_id": "user7055990451",
+   "action": "remove_members",
+   "members": [
+    "🤍"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 132,
+   "type": "service",
+   "date": "2024-11-15T02:45:57",
+   "date_unixtime": "1731620757",
+   "actor": "АЙНУР",
+   "actor_id": "user6975074974",
+   "action": "invite_members",
+   "members": [
+    "АЙНУР"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 133,
+   "type": "message",
+   "date": "2024-11-15T02:46:29",
+   "date_unixtime": "1731620789",
+   "from": "АЙНУР",
+   "from_id": "user6975074974",
+   "text": "Салеметсиздерма срочно 50мынга кв керек",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Салеметсиздерма срочно 50мынга кв керек"
+    }
+   ]
+  },
+  {
+   "id": 134,
+   "type": "message",
+   "date": "2024-11-15T02:46:38",
+   "date_unixtime": "1731620798",
+   "edited": "2024-11-15T02:46:44",
+   "edited_unixtime": "1731620804",
+   "from": "АЙНУР",
+   "from_id": "user6975074974",
+   "text": "Бир болмели",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Бир болмели"
+    }
+   ]
+  },
+  {
+   "id": 135,
+   "type": "service",
+   "date": "2024-11-15T23:23:43",
+   "date_unixtime": "1731695023",
+   "actor": "🤍",
+   "actor_id": "user7055990451",
+   "action": "invite_members",
+   "members": [
+    "🤍"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 136,
+   "type": "message",
+   "date": "2024-11-15T23:24:00",
+   "date_unixtime": "1731695040",
+   "edited": "2024-11-15T23:25:48",
+   "edited_unixtime": "1731695148",
+   "from": "🤍",
+   "from_id": "user7055990451",
+   "text": "Саламатсыздар ма 4,5,6 мкр жактан квартира керек\n1 болмели",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Саламатсыздар ма 4,5,6 мкр жактан квартира керек\n1 болмели"
+    }
+   ]
+  },
+  {
+   "id": 137,
+   "type": "service",
+   "date": "2024-11-18T13:06:32",
+   "date_unixtime": "1731917192",
+   "actor": "N.J.E.",
+   "actor_id": "user6841668576",
+   "action": "invite_members",
+   "members": [
+    "N.J.E."
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 140,
+   "type": "message",
+   "date": "2024-11-18T14:45:57",
+   "date_unixtime": "1731923157",
+   "from": "Саят Баймухан",
+   "from_id": "user8018098178",
+   "text": "Ни квартиры ни ответа нету в этой группе,не понятно чем занимаются",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ни квартиры ни ответа нету в этой группе,не понятно чем занимаются"
+    }
+   ]
+  },
+  {
+   "id": 141,
+   "type": "service",
+   "date": "2024-11-18T18:34:32",
+   "date_unixtime": "1731936872",
+   "actor": "N.J.E.",
+   "actor_id": "user6841668576",
+   "action": "remove_members",
+   "members": [
+    "N.J.E."
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 142,
+   "type": "service",
+   "date": "2024-11-18T20:53:31",
+   "date_unixtime": "1731945211",
+   "actor": "Erla",
+   "actor_id": "user5823047924",
+   "action": "remove_members",
+   "members": [
+    "Erla"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 143,
+   "type": "service",
+   "date": "2024-11-20T22:20:21",
+   "date_unixtime": "1732123221",
+   "actor": "Tolganai",
+   "actor_id": "user6247257651",
+   "action": "invite_members",
+   "members": [
+    "Tolganai"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 144,
+   "type": "service",
+   "date": "2024-11-21T09:06:16",
+   "date_unixtime": "1732161976",
+   "actor": "diii",
+   "actor_id": "user5349415471",
+   "action": "remove_members",
+   "members": [
+    "diii"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 145,
+   "type": "service",
+   "date": "2024-11-23T13:43:11",
+   "date_unixtime": "1732351391",
+   "actor": "A T",
+   "actor_id": "user6980958115",
+   "action": "invite_members",
+   "members": [
+    "A T"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 146,
+   "type": "service",
+   "date": "2024-11-23T16:50:06",
+   "date_unixtime": "1732362606",
+   "actor": "S Azamatovna",
+   "actor_id": "user1110322888",
+   "action": "remove_members",
+   "members": [
+    "S Azamatovna"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 148,
+   "type": "message",
+   "date": "2024-11-23T18:02:24",
+   "date_unixtime": "1732366944",
+   "from": "Guli Boribaeva",
+   "from_id": "user5565520256",
+   "text": "Ьдс",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ьдс"
+    }
+   ]
+  },
+  {
+   "id": 149,
+   "type": "message",
+   "date": "2024-11-23T18:04:15",
+   "date_unixtime": "1732367055",
+   "from": "((",
+   "from_id": "user929903383",
+   "text": "?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "?"
+    }
+   ]
+  },
+  {
+   "id": 150,
+   "type": "service",
+   "date": "2024-11-24T12:18:50",
+   "date_unixtime": "1732432730",
+   "actor": "Ләззат Асқарова",
+   "actor_id": "user5225248713",
+   "action": "invite_members",
+   "members": [
+    "Ләззат Асқарова"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 151,
+   "type": "message",
+   "date": "2024-11-24T13:24:40",
+   "date_unixtime": "1732436680",
+   "from": "Ләззат Асқарова",
+   "from_id": "user5225248713",
+   "text": "Сәлеметсіз дерме",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Сәлеметсіз дерме"
+    }
+   ]
+  },
+  {
+   "id": 152,
+   "type": "service",
+   "date": "2024-11-24T13:26:36",
+   "date_unixtime": "1732436796",
+   "actor": "Леонид Ким",
+   "actor_id": "user6631419464",
+   "action": "remove_members",
+   "members": [
+    "Леонид Ким"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 153,
+   "type": "service",
+   "date": "2024-11-24T13:50:39",
+   "date_unixtime": "1732438239",
+   "actor": "D H",
+   "actor_id": "user6605938895",
+   "action": "remove_members",
+   "members": [
+    "D H"
+   ],
+   "text": "",
+   "text_entities": []
+  }
+ ]
+}
