@@ -3,7 +3,7 @@ import json
 import re
 
 # Replace with your actual API key
-api_key = 'AIzaSyAbW85uWNJtLpqNNxxM1Cu5ruO77DcSJlE'
+api_key = 'AIzaSyAGEoHJJBf76T3XZP2RF_o9925bYW9jWPo'
 
 # API endpoint URL
 url = f'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key={api_key}'
